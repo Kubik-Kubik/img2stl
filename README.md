@@ -9,7 +9,7 @@ get_model_from_img(img: str, scale_reduction = 1, maxHeight = 100, invert = Fals
 
 Примеры работы алгоритма:
 ![image](https://github.com/Kubik-Kubik/img2stl/blob/main/8.png)
-![image](https://github.com/Kubik-Kubik/img2stl/blob/main/8stl.png)
+![image](https://github.com/Kubik-Kubik/img2stl/blob/main/8stl.PNG)
 _______________________________________
 ![image](https://github.com/Kubik-Kubik/img2stl/blob/main/Detail2stl.png)
 ![image](https://github.com/Kubik-Kubik/img2stl/blob/main/detail2.png)
